@@ -5,8 +5,9 @@ i. Python installed (minimum)
 ii. Check out [my playlist on YouTube](https://www.youtube.com/playlist?list=PL_CkpxkuPiT9udgCeqZpS4HKF6uIzra3r) about how to run python on your computer. 
 
 ## Series Overview  
-i. Basic Objects - Variables, Expressions, & Built-in Functions  
-ii. Loops (More on Lists, Sets, & Dictionaries)  
+i. Basic Objects - Variables, Expressions, & Built-in Functions
+ii. If statements - If, Elif, Else, & Comparison/Logical Operators
+ii. Loops - For & While 
 iii. List comprehension  
 iv. Functions & Lambda Functions  
 v. Classes & Importing Functions/Classes  

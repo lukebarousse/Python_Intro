@@ -1,1 +1,3 @@
-*.DS_Store
+.DS_Store
+0_playlist_overview.ipynb
+0_test_python.ipynb
