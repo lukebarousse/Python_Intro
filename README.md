@@ -1,14 +1,23 @@
-# Python Intro Series
+# Python Intro Series  
+This repository is the course material for *[The Basics of Python for Data Analysts & Scientist](https://www.youtube.com/playlist?list=PL_CkpxkuPiT8zTx9XO9jFf4PQ0iwBWfXB)* from my YouTube channel: [Data Viz by Luke](https://www.youtube.com/channel/UCLLw7jmFsvfIVaUFsLs8mlQ).
 
 ## Prerequisites
-i. Python installed (minimum)  
-ii. Check out [my playlist on YouTube](https://www.youtube.com/playlist?list=PL_CkpxkuPiT9udgCeqZpS4HKF6uIzra3r) about how to run python on your computer. 
+i. (required) Python & Jupyter Notebook installed  
+ii. (optional) My playlist on *[Install and How-To of Python for Data Analysts/Scientists](https://www.youtube.com/playlist?list=PL_CkpxkuPiT9udgCeqZpS4HKF6uIzra3r)* 
 
 ## Series Overview  
-i. Basic Objects - Variables, Expressions, & Built-in Functions
-ii. If statements - If, Elif, Else, & Comparison/Logical Operators
-ii. Loops - For & While 
-iii. List comprehension  
+i. Basic Objects  
+    a. Variables  
+    b. Expressions  
+    c. Functions (Built-in & Imported)  
+ii. If Statements & Operators  
+    a. If, Elif, Else  
+    b. Comparison/Logical/Other Operators  
+iii. Loops - For & While  
+    a. For - range()  
+    b. While  
+    c. Loop Control Statements  
+v. List, Dict Comprehension  
 iv. Functions & Lambda Functions  
 v. Classes & Importing Functions/Classes  
 vi. Comprehensive Practice Problems Analyzing 'The Office' Script dataset  
